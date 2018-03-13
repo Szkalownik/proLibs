@@ -3,7 +3,9 @@
     "description": "Custom Pro Library",
     "homepage": "https://github.com/Szkalownik/proLibs",
     "license": "Unlicense",
-    "keywords": ["prolibs, whmcs"],
+    "keywords": [
+        "prolibs", "whmcs"
+    ],
     "authors": [
         {
             "name": "Dariusz Bijoś",
