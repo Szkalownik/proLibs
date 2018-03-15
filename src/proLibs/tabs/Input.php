@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-namespace ModulesGarden\tabs;
+namespace proLibs\tabs;
 
 /**
  * Description of Input

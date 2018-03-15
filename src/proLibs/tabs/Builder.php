@@ -5,9 +5,9 @@
  * and open the template in the editor.
  */
 
-namespace ModulesGarden\tabs;
+namespace proLibs\tabs;
 
-use \ModulesGarden\extensions\Smarty;
+use proLibs\extensions\Smarty;
 
 /**
  * Description of Buildier
