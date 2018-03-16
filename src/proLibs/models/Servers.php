@@ -30,4 +30,6 @@ class Servers extends Model
      * @var string
      */
     protected $table = 'tblservers';
+
+    public $timestamps = false;
 }
