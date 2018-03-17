@@ -20,16 +20,12 @@ namespace proLibs\models;
 
 use \Illuminate\Database\Eloquent\Model;
 
-/**
- * Class Servers
- * @package pro\models
- */
-class Servers extends Model
+class AddonModules extends Model
 {
     /**
      * @var string
      */
-    protected $table = 'tblservers';
+    protected $table = 'tbladdonmodules';
     /**
      * @var bool
      */
